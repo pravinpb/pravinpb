@@ -1,4 +1,4 @@
-# 💫 Hii, This is Pravin P B:
+# Hii, This is Pravin P B 💫:
 Interested in Machine Learning and Deep Learning.<br>A Sophomore at Kumaraguru College of Technology doing my Undergrad in Artificial Intelligence and Data Science<br>
 
 
