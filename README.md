@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hii, This is Pravin P B<br>Interested in Machine Learning and Deep Learning.<br>A Sophomore at Kumaraguru College of Technology doing my Undergrad in Artificial Intelligence and Data Science<br>
+# 💫 Hii, This is Pravin P B:
+Interested in Machine Learning and Deep Learning.<br>A Sophomore at Kumaraguru College of Technology doing my Undergrad in Artificial Intelligence and Data Science<br>
 
 
 ## 🌐 Socials:
